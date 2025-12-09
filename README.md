@@ -2,6 +2,7 @@
 
 A RESTful API built with NestJS, PostgreSQL, TypeORM, and JWT authentication.
 
+
 ## 🚀 Features
 
 - ✅ User authentication with JWT
@@ -12,6 +13,8 @@ A RESTful API built with NestJS, PostgreSQL, TypeORM, and JWT authentication.
 - ✅ Unit and E2E tests
 - ✅ Password hashing with bcrypt
 - ✅ Protected routes with JWT guards
+
+-Note: you can check the screenshots of the working below:
 
 ## 📋 Prerequisites
 
@@ -326,7 +329,8 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 
-Your Name - [GitHub Profile](https://github.com/yourusername)
+Your Name - [GitHub Profile](https://github.com/SALIK-JAVID)
+
 
 ## 🙏 Acknowledgments
 
